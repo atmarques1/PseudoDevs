@@ -1,0 +1,9 @@
+AVALIAÇÃO
+----------
+
+
+T-01 ( 2.0 pontos )
+
+Nota.... 1.5 pts
+
+Faltou o caso de Uso trocar o dono do bilhete
